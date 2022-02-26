@@ -9,7 +9,9 @@
 - [Blogger](https://www.xiaoyv404.top)
 
 **Skills**
+
 ![Kotlin](https://img.shields.io/badge/-Kotlin-orange?stype=flat-square&logo=Kotlin&logoColor=3366ff)
+![Golang](https://img.shields.io/badge/-Golang-495867?style=flat-square&logo=Go&logoColor=00a9d4)
 
 
 
